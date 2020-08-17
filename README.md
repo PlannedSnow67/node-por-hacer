@@ -1,4 +1,4 @@
-## Estoy teniendo mi primer archivo readme del curso de Node JS
+## Mi segunda app de NODE JS 
 
 
 Se teiene que ejecutar el 
